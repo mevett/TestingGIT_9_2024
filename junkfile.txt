@@ -1,1 +1,2 @@
 First contents of junkfile
+a does some work
